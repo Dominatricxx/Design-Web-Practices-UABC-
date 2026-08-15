@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="mystyle.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- This is a comment-->
+    <header>
+        <h1>Dominic Escobar</h1>
+        <h3>Future Full Stack Developer.</h3><br>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About me</a>
+        </nav>
+    </header>
+    <main>
+        <h2>About me</h2>
+        <p>
+            I am a Software Engineering student, currently in my fifth semester, and I have<br>
+            enjoyed the entire process of studying and the knowledge acquired so far.<br>
+            Some of my hobbies include learning more about new tools<br><br>
+            to implement in my projects, as well as reading novels and psychological thrillers, <br>
+            playing video games, and going out to explore new places with my partner.<br><br>
+            Also I am about to become a father, so this will be a new step in my life, I'm pretty<br>
+            nervous but excited. The doctor said it will be a baby girl, well... probably.<br>
+            In any case I'll love to meet her or him, no matter what.
+        </p>
+    </main>
+</body>
+<footer>
+    <h2>Don't judge me</h2>
+    <p>This is probably the worst footer you'll ever see in<br>
+        your entire life, so don't feel bad or weird about it.<br>
+        Just read it, ignore it and keep going with your life.</p>
+</footer>
+
+</html>
