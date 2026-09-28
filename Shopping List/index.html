@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="mystyle.css">
+    <title>Shopping List</title>
+</head>
+
+<body>
+    <div class="app-container">
+        <header>
+            <h1>Shopping List</h1>
+        </header>
+
+        <main>
+            <div class="input-box">
+                <h2>Forgetting something?</h2>
+                <h4>Add it!</h4>
+                <input type="text" id="txtItem" placeholder="Enter item name...">
+                <button id="btnAdd">Add Item</button>
+                <p id="errorMsg" class="alert-error">Please enter a valid item name.</p>
+            </div>
+
+            <div class="list-container">
+                <ul id="itemList"></ul>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
